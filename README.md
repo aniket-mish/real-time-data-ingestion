@@ -14,5 +14,7 @@ TL;DR
 5. generate embeddings using a model from HuggingFace
 6. writes results to the qdrant
 
+![dag](assets/dag.png)
 
+Bytewax's API simplifies this complex data processing approach.
 
